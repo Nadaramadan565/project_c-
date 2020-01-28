@@ -1,0 +1,23 @@
+C:\Users\DELL\source\repos\feadback\feadback\bin\Debug\feadback.exe.config
+C:\Users\DELL\source\repos\feadback\feadback\bin\Debug\feadback.exe
+C:\Users\DELL\source\repos\feadback\feadback\bin\Debug\feadback.pdb
+C:\Users\DELL\source\repos\feadback\feadback\obj\Debug\feadback.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\feadback\feadback\obj\Debug\feadback.Properties.Resources.resources
+C:\Users\DELL\source\repos\feadback\feadback\obj\Debug\feadback.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\feadback\feadback\obj\Debug\feadback.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\feadback\feadback\obj\Debug\feadback.exe
+C:\Users\DELL\source\repos\feadback\feadback\obj\Debug\feadback.pdb
+C:\Users\DELL\source\repos\feadback\feadback\obj\Debug\feadback.complain.resources
+C:\Users\DELL\source\repos\feadback\feadback\obj\Debug\feadback.complain_answer.resources
+C:\Users\DELL\source\repos\feadback\feadback\obj\Debug\feadback.Form2.resources
+C:\Users\DELL\source\repos\feadback\feadback\obj\Debug\feadback.feedback.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\feedback1\feadback\bin\Debug\feadback.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\feedback1\feadback\obj\Debug\feadback.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\feedback1\feadback\obj\Debug\feadback.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\feedback1\feadback\obj\Debug\feadback.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\feedback1\feadback\obj\Debug\feadback.complain.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\feedback1\feadback\obj\Debug\feadback.complain_answer.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\feedback1\feadback\obj\Debug\feadback.feedback.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\feedback1\feadback\obj\Debug\feadback.recive.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\feedback1\feadback\obj\Debug\feadback.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\feedback1\feadback\obj\Debug\feadback.csproj.GenerateResource.Cache

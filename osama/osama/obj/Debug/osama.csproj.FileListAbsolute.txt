@@ -1,0 +1,14 @@
+C:\Users\Freeware Sys\AppData\Local\Temporary Projects\osama\bin\Debug\osama.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2012\Projects\osama\osama\bin\Debug\osama.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2012\Projects\osama\osama\bin\Debug\osama.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2012\Projects\osama\osama\bin\Debug\osama.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2012\Projects\osama\osama\obj\Debug\osama.csprojResolveAssemblyReference.cache
+C:\Users\Freeware Sys\Documents\Visual Studio 2012\Projects\osama\osama\obj\Debug\osama.Form1.resources
+C:\Users\Freeware Sys\Documents\Visual Studio 2012\Projects\osama\osama\obj\Debug\osama.Properties.Resources.resources
+C:\Users\Freeware Sys\Documents\Visual Studio 2012\Projects\osama\osama\obj\Debug\osama.csproj.GenerateResource.Cache
+C:\Users\Freeware Sys\Documents\Visual Studio 2012\Projects\osama\osama\obj\Debug\osama.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2012\Projects\osama\osama\obj\Debug\osama.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2012\Projects\osama\osama\obj\Debug\osama.Form2.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\osama\osama\bin\Debug\osama.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\osama\osama\obj\Debug\osama.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\osama\osama\obj\Debug\osama.pdb

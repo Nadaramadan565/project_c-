@@ -1,0 +1,13 @@
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.circularButton.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\c#Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.add_staff.resources
